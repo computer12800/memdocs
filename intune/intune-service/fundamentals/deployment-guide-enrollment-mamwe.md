@@ -82,6 +82,7 @@ This task list provides an overview. For more specific information, see [Microso
 
   - Direct users to the Company Portal web site at `portal.manage.microsoft.com`. When they sign in with their organization credentials, they see a list of apps, including required apps. They can get apps from this site.
   - Have users download and install the Company Portal app from the app store. Once authenticated, users can install apps, including required apps.
+  - This article suggests that users need to sign in to the Company Portal app to receive MAM, app protection policies. My senior colleague has done over 100 deployments and found that sign in is not required
 
 ### MAM end user tasks
 
